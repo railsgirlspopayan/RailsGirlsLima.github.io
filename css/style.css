@@ -79,6 +79,11 @@ header #logo {
   width: 240px;
   float: left;
 }
+header #logo img{
+  width: 200px;
+  height: 200px;
+  border: 5px solid white;
+}
 
 nav {
   margin: 0 0 0 250px;
